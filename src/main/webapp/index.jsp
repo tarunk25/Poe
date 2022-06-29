@@ -4,7 +4,7 @@
 <html>  
 <head>  
 <meta http-equiv="Content-Type" content="text/html; charset=ISO-8859-1">  
-<title>Insert title here</title>  
+<title>Sort numbers to descending order</title>  
 </head>  
 <body>  
  
@@ -12,7 +12,7 @@
    int [] arr = new int [] {6, 1, 9, 7, 5};    
         int temp = 0;    
            
-        //Displaying elements of original array    
+            
         out.println("Elements of original array: ");    
         for (int i = 0; i < arr.length; i++) {    
             out.print(arr[i] + " ");    
