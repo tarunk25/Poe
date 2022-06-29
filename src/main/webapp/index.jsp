@@ -9,7 +9,7 @@
 <body>  
  
 <%  
-   int [] arr = new int [] {5, 2, 8, 7, 1};    
+   int [] arr = new int [] {6, 1, 9, 7, 5};    
         int temp = 0;    
            
         //Displaying elements of original array    
